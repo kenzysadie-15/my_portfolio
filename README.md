@@ -1,2 +1,11 @@
 # my_portfolio
-# portfoliothis is my personal portfolio website 
+
+# portfolio 
+this is my personal portfolio website .
+
+## Technologies
+-HTML
+-CSS
+-Javascript
+
+## Link
